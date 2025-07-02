@@ -16,13 +16,13 @@ hero:
   actions:
     - theme: brand
       text: 介绍
-      link: /about
+      link: /about.md
     - theme: alt
       text: 下载
-      link: /download
+      link: /download.md
     - theme: alt
       text: 🎉 机场推荐
-      link: /feed
+      link: /feed.md
   image:
       src: /index-image-src.png
       alt: Clash for Windows

@@ -20,43 +20,43 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     logo: '/logo.png',
     nav: [
-      { text: '介绍', link: '/about' },
-      { text: '下载', link: '/download' },
-      { text: '教程', link: '/tutorial' },
+      { text: '介绍', link: '/about.md' },
+      { text: '下载', link: '/download.md' },
+      { text: '教程', link: '/tutorial.md' },
       { text: '维基', link: '/wiki/RESTful API' },
-      { text: '常见问题', link: '/faq' },
-      { text: '🎉机场推荐', link: '/feed' }
+      { text: '常见问题', link: '/faq.md' },
+      { text: '🎉机场推荐', link: '/feed.md' }
     ],
 
     sidebar: [
       {
         text: '快速开始',
         items: [
-          { text: '介绍', link: '/about' },
-          { text: '下载', link: '/download' },
-          { text: '教程', link: '/tutorial' }
+          { text: '介绍', link: '/about.md' },
+          { text: '下载', link: '/download.md' },
+          { text: '教程', link: '/tutorial.md' }
         ]
       },
       {
         text: '维基',
         items: [
-          { text: 'RESTful API', link: '/wiki/RESTful API' },
-          { text: 'Shadowsocks', link: '/wiki/Shadowsocks' },
-          { text: 'Snell', link: '/wiki/Snell' },
-          { text: 'Socks5', link: '/wiki/Socks5' },
-          { text: 'TCP', link: '/wiki/TCP' },
-          { text: 'TProxy TCP/UDP', link: '/wiki/TProxy' },
-          { text: 'Trojan', link: '/wiki/Trojan' },
-          { text: 'UDP', link: '/wiki/UDP' },
-          { text: 'VMess', link: '/wiki/VMess' },
-          { text: 'Wireguard', link: '/wiki/Wireguard' }
+          { text: 'RESTful API', link: '/wiki/RESTful API.md' },
+          { text: 'Shadowsocks', link: '/wiki/Shadowsocks.md' },
+          { text: 'Snell', link: '/wiki/Snell.md' },
+          { text: 'Socks5', link: '/wiki/Socks5.md' },
+          { text: 'TCP', link: '/wiki/TCP.md' },
+          { text: 'TProxy TCP/UDP', link: '/wiki/TProxy.md' },
+          { text: 'Trojan', link: '/wiki/Trojan.md' },
+          { text: 'UDP', link: '/wiki/UDP.md' },
+          { text: 'VMess', link: '/wiki/VMess.md' },
+          { text: 'Wireguard', link: '/wiki/Wireguard.md' }
         ]
       },
       {
         text: '其它问题',
         items: [
-          { text: '常见问题', link: '/faq' },
-          { text: '🎉机场推荐', link: '/feed' }
+          { text: '常见问题', link: '/faq.md' },
+          { text: '🎉机场推荐', link: '/feed.md' }
         ]
       }
     ],
