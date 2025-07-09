@@ -155,7 +155,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title"><span style="color: red;">老百姓机场</span></div>
   <div class="pricing-price">¥6.00 <span class="pricing-unit" >每月</span></div>
-  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=lfZ9QIT8" target="_blank" class="buy-button">
+  <a href="https://xn--mes53dm4ex3lhhtdb891k3sd.com/#/register?code=Onxdw3aY" target="_blank" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
