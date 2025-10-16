@@ -22,7 +22,7 @@ hero:
       link: /download.md
     - theme: alt
       text: 🎉 机场推荐
-      link: /feed.md
+      link: https://jichangdaohang.com
   image:
       src: /index-image-src.png
       alt: Clash for Windows
