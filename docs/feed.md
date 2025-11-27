@@ -57,9 +57,9 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">优信云<span style="color: red;"><b>👍推荐</b></span></div>
+  <div class="pricing-title">扬帆云<span style="color: red;"><b>👍推荐</b></span></div>
   <div class="pricing-price">¥15.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://a.suola.link/youxinyun" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://a.suola.link/yfy" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -378,9 +378,9 @@ head:
 </div>
 
 <div class="pricing-card">
-  <div class="pricing-title">扬帆云</div>
+  <div class="pricing-title">优信云云</div>
   <div class="pricing-price">¥15.99 <span class="pricing-unit">每月</span></div>
-  <a href="https://yftg1.net/register?code=0WEO6ulk" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://a.suola.link/youxinyun" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -583,7 +583,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">Jimmm</div>
   <div class="pricing-price">¥14.00 <span class="pricing-unit">每月</span></div>
-  <a href="https://jimmm.life/register?code=BgQ1LKH5" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://a.suola.link/jimmm" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     
@@ -610,7 +610,7 @@ head:
 <div class="pricing-card">
   <div class="pricing-title">网际快车</div>
   <div class="pricing-price">¥6.80 <span class="pricing-unit" style="color: red;">不限时</span></div>
-  <a href="https://wjkc66.vip?c=APIXRJ" target="_blank" rel="nofollow" class="buy-button">
+  <a href="https://a.suola.link/wjkc" target="_blank" rel="nofollow" class="buy-button">
     <i class="icon-cart"></i> 立即订阅
   </a>
     

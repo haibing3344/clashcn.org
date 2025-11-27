@@ -56,6 +56,13 @@ Web浏览：HTTP/HTTPS协议基于TCP，确保网页数据可靠传输。
 ## 总结
 TCP是互联网通信中最重要的协议之一，提供可靠的、面向连接的通信服务，广泛应用于各种网络应用和服务。通过流量控制、拥塞控制和错误检测机制，TCP确保数据在复杂网络环境中的可靠传输。尽管有一定的开销和延迟，TCP的稳定性和可靠性使其成为大多数网络应用的首选协议。
 
+
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

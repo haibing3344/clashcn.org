@@ -115,6 +115,13 @@ app.listen(port, () => console.log(`Listening on port ${port}...`));
 
 RESTful API是一种简单、灵活、易于扩展的Web服务设计方法，通过标准的HTTP协议和动词进行操作，使得客户端和服务器之间的通信更加直观和高效。它适用于各种规模的Web应用程序，从小型项目到大型分布式系统。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

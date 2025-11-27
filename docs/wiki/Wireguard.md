@@ -38,6 +38,12 @@ WireGuard是一种现代化的虚拟专用网络（VPN）协议，设计简单�
 
 WireGuard是一种高效、安全、简便的VPN协议，适用于各种网络环境和应用场景。其高性能、强安全性和易用性使得它成为现代VPN解决方案的优秀选择。通过WireGuard，用户可以实现安全的远程访问、保护隐私、绕过地域限制以及企业内网互联。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

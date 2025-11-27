@@ -19,6 +19,12 @@ VMess是V2Ray项目中使用的一种加密传输协议，用于实现客户端�
 ## 与Clash for Windows的关系
 Clash for Windows 是一个图形用户界面（GUI）客户端，能够支持和管理多种网络代理协议，包括VMess。通过Clash for Windows，用户可以方便地配置和使用VMess节点，并结合其他规则和代理类型进行灵活的流量管理。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

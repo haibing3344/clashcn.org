@@ -22,7 +22,7 @@ hero:
       link: /download.md
     - theme: alt
       text: 🎉 机场推荐
-      link: https://jichangdaohang.com
+      link: https://jichang360.com
   image:
       src: /index-image-src.png
       alt: Clash for Windows
@@ -49,7 +49,7 @@ features:
     details: 通过全面的 API 实时更新配置
 ---
 
-友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://一元.online" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://youxinyun.bid" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://www.clashforwindows.uk" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karing.uk" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>&nbsp; &nbsp;<a href="https://2yuan.uk" target="_blank">2元机场</a>&nbsp; &nbsp;<a href="https://taoqitu.uk" target="_blank">淘气兔机场</a>&nbsp; &nbsp;<a href="https://baokemeng.bid" target="_blank">宝可梦机场</a>&nbsp; &nbsp;<a href="https://1rmb.org" target="_blank">一元机场</a>&nbsp; &nbsp;<a href="https://yijc.org" target="_blank">一元机场</a>&nbsp; &nbsp;<a href="https://clashmeta.bid" target="_blank">ClashMetaForAndroid</a>
+友情链接：<a href="https://jichangtuijian.uk" target="_blank">机场推荐</a> &nbsp; &nbsp;<a href="https://1yuan.men" target="_blank">一元机场</a> &nbsp; &nbsp;   <a href="https://youxinyun.bid" target="_blank">优信云机场</a> &nbsp; &nbsp;   <a href="https://clashforwin.bid" target="_blank">Clash for windows</a> &nbsp; &nbsp; <a href="https://3mao.bid" target="_blank">三毛机场</a> &nbsp; &nbsp;<a href="https://mojie.uk" target="_blank">魔戒机场</a>&nbsp; &nbsp;<a href="https://mihomoparty.bid" target="_blank">Mihomo Party</a>&nbsp; &nbsp;<a href="https://karings.org" target="_blank">Karing客户端</a>&nbsp; &nbsp;<a href="https://nsloon.uk" target="_blank">Loon客户端</a>&nbsp; &nbsp;<a href="https://stashapp.uk" target="_blank">Stash客户端</a>&nbsp; &nbsp;<a href="https://2yuan.uk" target="_blank">2元机场</a>&nbsp; &nbsp;<a href="https://taoqitu.uk" target="_blank">淘气兔机场</a>&nbsp; &nbsp;<a href="https://baokemeng.bid" target="_blank">宝可梦机场</a>&nbsp; &nbsp;<a href="https://1rmb.uk" target="_blank">一元机场</a>&nbsp; &nbsp;<a href="https://clash-verge.uk" target="_blank">Clash Verge</a>&nbsp; &nbsp;<a href="https://clashmeta.bid" target="_blank">ClashMetaForAndroid</a>
 <style>
 :root {
   --vp-home-hero-name-color: transparent;

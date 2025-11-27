@@ -3,6 +3,12 @@ title: Clash for Windows 教程
 description: 远程订阅地址即通过 URL 链接导入，一般的服务商都会直接提供 Clash 节点地址，直接复制服务商提供的节点订阅地址即可.
 ---
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 # 教程
 
 Clash for Windows [下载](/download)和安装之后，可用通过 **Clash for Windows 使用教程**配置好[Clash for Windows](/)。
@@ -70,6 +76,12 @@ Clash for Windows [下载](/download)和安装之后，可用通过 **Clash for 
 点击界面左侧菜单 `配置`，点击 `更新全部` 即可更新所有配置文件，如下图所示。
 
 ![更新配置文件](/assets/9.3MrXh7te.avif "更新所有配置文件")
+
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
 
 
 ::: tip 🎉 节点推荐

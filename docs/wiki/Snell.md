@@ -28,6 +28,11 @@ Snell与Shadowsocks、VMess、Trojan等代理协议类似，都是为了绕过�
 ## 总结
 Snell是一种高性能、高隐蔽性的代理协议，适用于需要快速、稳定网络连接的用户。其简单的配置和部署过程使得用户可以快速上手，并在多种操作系统上使用。通过Snell，用户可以实现科学上网、保护隐私以及满足高带宽应用的需求。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
 
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>

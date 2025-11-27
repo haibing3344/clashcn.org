@@ -27,6 +27,12 @@ SOCKS5是一种网络代理协议，主要用于在客户端和服务器之间�
 ## 总结
 SOCKS5是一种功能强大、灵活性高的代理协议，适用于多种网络应用和场景。它提供了隐藏IP地址、支持多种协议和增强安全性的功能，使得用户可以更高效地进行网络代理操作。在工具如Clash for Windows中，SOCKS5代理可以与其他代理协议和规则结合使用，提供更加灵活和高效的网络代理解决方案。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

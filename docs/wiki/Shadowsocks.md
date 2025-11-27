@@ -21,7 +21,11 @@ Clash for Windows与Shadowsocks的关系可以概括为以下几点：
 
 总体而言，Shadowsocks和[Clash for Windows](/)可以互补使用，前者提供基础的代理功能，后者提供高级的管理和多协议支持，使得用户能够更灵活和高效地进行网络代理操作。
 
+::: warning ⚠️注意
 
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
 
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>

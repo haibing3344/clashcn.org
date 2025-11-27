@@ -3,6 +3,12 @@ title: clash for windows 介绍
 description: clash for windows 是一款基于 Clash 内核的 Windows 平台代理工具
 ---
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 # 介绍
 ## 什么是 Clash for Windows？
 
@@ -30,6 +36,12 @@ Clash for Windows 是 Windows 系统上的一款 Clash 客户端。
 
 ![Clash for Windows的软件截图](/assets/Clash-for-Windows-6.Cwbp1SRm.png "Clash for Windows 系统设置界面")
 
+
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
 
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>

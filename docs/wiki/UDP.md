@@ -105,6 +105,12 @@ client_socket.close()
 UDP是一种简单、快速、低延迟的传输层协议，适用于实时性要求高的应用，如音视频传输、在线游戏和DNS查询。虽然UDP不提供可靠的传输服务，但其轻量级和支持广播、多播的特点使其在许多应用中非常有用。通过合理选择和配置，UDP可以在特定场景下提供高效的网络通信服务。
 
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

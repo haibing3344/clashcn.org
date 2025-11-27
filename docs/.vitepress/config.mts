@@ -25,7 +25,7 @@ export default defineConfig({
       { text: '教程', link: '/tutorial.md' },
       { text: '维基', link: '/wiki/RESTful API' },
       { text: '常见问题', link: '/faq.md' },
-      { text: '🎉机场推荐', link: 'https://jichangdaohang.com' }
+      { text: '🎉机场推荐', link: 'https://jichang360.com' }
     ],
 
     sidebar: [

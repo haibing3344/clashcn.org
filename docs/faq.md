@@ -14,6 +14,12 @@ description: 使用Clash for Windows代理有，选择其不同的节点，可�
 
 简单来说，凡是符合 [Shadowsocks(R)](/wiki/Shadowsocks.md)、[VMess](/wiki/VMess.md)、[Trojan](/wiki/Trojan.md)、[Snell](/wiki/Snell.md)、[Socks5](/wiki/Socks5.md)、HTTP(S)、[Wireguard](/wiki/Wireguard.md) 等这些标准的[机场](/feed.md)都适合 Clash for Windows。
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

@@ -120,6 +120,12 @@ iptables -t mangle -A PREROUTING -p tcp --dport 443 -j TPROXY --tproxy-mark 0x1/
 TProxy是一种强大的透明代理工具，适用于需要透明代理和处理网络流量的各种场景。通过与iptables和iproute2结合使用，TProxy可以灵活地捕获和重定向TCP和UDP流量，实现负载均衡、安全监控和网络优化等功能。尽管配置复杂，但其强大的功能和灵活性使其成为网络管理员和开发者的重要工具。
 
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::

@@ -37,6 +37,12 @@ Trojan是一种基于HTTPS协议的代理工具，设计目的是为了隐蔽和
 Trojan与[Shadowsocks](/wiki/Shadowsocks.md)、[VMess](/wiki/VMess.md)等代理工具类似，都是用于科学上网和绕过网络审查的工具。与这些工具不同的是，Trojan更注重流量的隐蔽性和与常规HTTPS流量的相似性，从而在一些严格的网络审查环境中表现更为出色。
 
 
+::: warning ⚠️注意
+
+- Clash for Windows已经停止更新，建议使用最新客户端Clash Verge。下载地址：[Clash Verge](https://clash-verge.uk)
+
+:::
+
 ::: tip 🎉 节点推荐
 - 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
