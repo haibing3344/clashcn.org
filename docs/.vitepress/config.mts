@@ -105,7 +105,7 @@ export default defineConfig({
     const lastUpdated = pageData.lastUpdated;
     const isoDate = lastUpdated ? new Date(lastUpdated).toISOString() : null;
     //siteUrl
-    const siteUrl = 'https://www.clashcn.org';
+    const siteUrl = 'https://clashcn.org';
     // canonical
     const canonicalUrl =
       siteUrl +
