@@ -112,7 +112,7 @@ UDP是一种简单、快速、低延迟的传输层协议，适用于实时性�
 :::
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群

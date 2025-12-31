@@ -123,7 +123,7 @@ RESTful API是一种简单、灵活、易于扩展的Web服务设计方法，通
 
 
 ::: tip 🎉 节点推荐
-- 🚀 <a href="https://a.suola.link/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
+- 🚀 <a href="https://c.jichangs.com/1yuan" rel="sponsored nofollow noopener" target="_blank">一元机场：IEPL/IPLC 高速专线，￥15.00/月</a><br>
 :::
 
 ::: warning  💬 交流群
